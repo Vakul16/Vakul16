@@ -1,4 +1,4 @@
-### :point_right: Hi there, I am Vakul - 👋
+### :point_right: Hi there, I'm Vakul - 👋
 
 <!-- ### :point_right: I'm currently working on **_MERN STACK_** -->
 
